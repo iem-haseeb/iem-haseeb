@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://iem-haseeb.github.io/"><img width="80%" alt="Hello, I'm Haseeb I do open source!" src="./assets/iem-saad-gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://iem-haseeb.github.io/"><img  alt="Hello, I'm Haseeb I do open source!" src="/Screenshot 2024-07-07 012245.png" /></a></p>
 
 <p>
   <em>
