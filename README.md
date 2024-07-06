@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 -->
 <p align="center"><a href="https://iem-haseeb.github.io/"><img width="80%" alt="Hello, I'm Haseeb I do open source!" src="./assets/iem-saad-gh-readme-header.png" /></a></p>
 
-<img align="right" alt="PC GIF" src="./assets/iem-saad-gh-computer.gif" width="350" />
-
 <p>
   <em>
     I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
-    A <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
-    by fear of being average and wants a <b>platform</b> to 
+    A <b>Ruby on Rails Developer, Research Assistant</b> and a <b>Data Enthusiast,</b> who is <b>motivated</b> by fear of being average and wants a <b>platform</b> to
     <b>grow 🚀 </b> and 
     <b>excel. ⭐</b>
   </em>  
