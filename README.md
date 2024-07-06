@@ -21,32 +21,25 @@ Here are some ideas to get you started:
 <p>
   <em>
     I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
-    A Full Stack <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
+    A <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
     by fear of being average and wants a <b>platform</b> to 
     <b>grow 🚀 </b> and 
     <b>excel. ⭐</b>
   </em>  
 </p>
 
-- 🌱 I’m currently learning Data Engineering.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking for masters and to collaborate on Open Source Projects.
-- 💬 Ask me about Ruby On Rails xD
-- 📫 How to reach me: iem.saad@hotmail.com
-- ⚡ Fun fact: Did you Know? When you see the sun, you're looking at 8-minutes-20-seconds-old light, as It takes time for light to reach us. The light from Earth’s nearest star Proxima Centauri is four years old.
+- 📫 How to reach me: im-haseeb@outlook.com
+
 
 <br>
 
 ### Let's Connect 🔥
-<a href="https://github.com/iem-saad/">
+<a href="https://github.com/iem-haseeb">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/iemsaad/">
+<a href="https://www.linkedin.com/in/muhammad-haseeb-18320720a/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://x.facebook.com/iemsaaad">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://twitter.com/iem_saad">
-<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
-<a href="https://www.instagram.com/iem.saad/">
-<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="mailto:iem.saad@hotmail.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <br><br>
