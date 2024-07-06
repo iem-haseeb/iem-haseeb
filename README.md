@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: im-haseeb@outlook.com
 
 
-<br>
+<br><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRvZWV5OWczdjFkN2N0aDRvZWVzMDBlbHZydnRrN3dnNmNtN3Z2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ### Let's Connect 🔥
 <a href="https://github.com/iem-haseeb">
