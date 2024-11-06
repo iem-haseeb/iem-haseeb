@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking for masters and to collaborate on Open Source Projects.
+- 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: im-haseeb@outlook.com
 
 
