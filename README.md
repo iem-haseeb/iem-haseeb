@@ -1,84 +1,131 @@
-## Hi there 👋
-
-<!--
-**iem-haseeb/iem-haseeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center"><a href="https://iem-haseeb.github.io/"><img  alt="Hello, I'm Haseeb I do open source!" src="/Screenshot 2024-07-07 012245.png" /></a></p>
-
-<p>
-  <em>
-    I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
-    A <b>Ruby on Rails Developer, Research Assistant</b> and a <b>Data Enthusiast,</b> who is <b>motivated</b> by fear of being average and wants a <b>platform</b> to
-    <b>grow 🚀 </b> and 
-    <b>excel. ⭐</b>
-  </em>  
-</p>
-
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: im-haseeb@outlook.com
-
-
-<br>
-<div align="center"><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRvZWV5OWczdjFkN2N0aDRvZWVzMDBlbHZydnRrN3dnNmNtN3Z2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500" height="500" ></div>
-
-### Let's Connect 🔥
-<a href="https://github.com/iem-haseeb">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/muhammad-haseeb-18320720a/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="mailto:im-haseeb@outlook.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<br><br>
-
-### Tools & Technologies 🛠
-
-<div>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
-</div>
-<br><br>
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors count
-
-![VisitorCount](https://profile-counter.glitch.me/{iem-haseeb}/count.svg)
-
-### 📊 Profile Stats
 <div align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iem-haseeb&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+
+# Muhammad Haseeb Ashraf
+
+### AI/ML Engineer · LLM/VLM Engineer · Edge AI Specialist
+
+*Building AI that works in the real world — not just in notebooks.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iem-haseeb.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebml/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:im-haseeb@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iem-haseeb)
+
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
-  
+---
+
+## About Me
+
+I am an AI/ML Engineer with production experience delivering intelligent systems for clients across the **US, Malaysia, and Turkey**. My work spans computer vision, large language models, vision-language models, and edge AI deployment on constrained hardware.
+
+I do not just run experiments. I own pipelines end to end, from data annotation and model training to production deployment. I am also an active researcher at FAST-NUCES with contributions in Explainable AI, IoT security, and NLP progressing toward publication.
+
+Deeply interested in **Quantum AI** and its intersection with computer vision and healthcare, a space I believe will define the next generation of intelligent systems.
+
+> *"I take a good idea, go build it, and come back with receipts."*
+
+---
+
+## What I Build
+
+```
+Computer Vision     →   Object Detection · SAR Imagery · Satellite Analysis · Medical Imaging
+LLMs & Agents       →   RAG · Graph RAG · Fine-tuning · Prompt Engineering · Voice Agents
+Vision-Language     →   BLIP-2 · VLMs · Video Intelligence · Image Captioning
+Edge AI             →   Qualcomm NPU/GPU/CPU · On-device LLM · Android Inference · Quantization
+Healthcare AI       →   Clinical RAG · Doctor-Patient Transcription · Medical NLP
+```
+
+---
+
+## 🏭 Production Projects
+
+| Project | Domain | Stack | Client |
+|---|---|---|---|
+| **Energy Asset Detection System** | SAR Imagery / Energy | YOLO, CVAT, VV/VH Polarization | 🇺🇸 US Energy |
+| **Aerial Storage Infrastructure Classifier** | Aerial Computer Vision | YOLO11, CVAT, RTX 4070 | 🇺🇸 US Energy |
+| **Geospatial Infrastructure Intelligence Pipeline** | Geospatial AI | YOLO, MAXAR, VEXCEL, QGIS, OSM | 🏢 Enterprise |
+| **Enterprise Document Intelligence Platform** | Fintech Document Intelligence | Neo4j, Python, FastAPI | 💰 Fintech |
+| **Retail Loss Prevention Vision System** | Video Intelligence | YOLO, LSTM, VLMs | 🇲🇾 Malaysia |
+| **Multi-Domain Conversational AI System** | Conversational AI | Django, LLMs, LangChain | 🇹🇷 Turkey |
+| **Autonomous Voice Interaction Agent** | Agentic AI | VAPI, LangFuse, OpenAI | 🏢 Enterprise |
+| **Intelligent Document Processing Engine** | OCR & Parsing | DeepSeek OCR, PaddleOCR, Azure | 🏢 Enterprise |
+| **Medical Consultation Intelligence Platform** | Healthcare AI | Next.js, LlamaIndex, OpenAI | 🏥 Healthcare |
+
+---
+
+## 🔬 Research & Experiments
+
+| Project | Tech | Highlights |
+|---|---|---|
+| **Clinical RAG — MIMIC-IV** | ChromaDB, Gemini 2.0, Streamlit | Zero hallucination · Perfect faithfulness |
+| **BLIP-2 Fine-tuning (LoRA)** | HuggingFace, PEFT, PyTorch | BLEU 0.337 · CIDEr 0.929 |
+| **Android On-Device YOLO** | Java, YOLO26n, Qualcomm Tools | Real-time inference · Zero cloud dependency |
+| **Multi-Camera Detection** | Python, OpenCV, YOLO26n | 3 simultaneous streams · No CUDA needed |
+| **Adaptive ACL** | Solidity, SDN, Game Theory | IoT security · Blockchain ACL · Targeting publication |
+| **LLM XAI Benchmarking** | Transformers, XAI Frameworks | 5+ SOTA LLMs compared · Targeting publication |
+| **Urdu Sentiment Analysis** | BERT, TF-IDF, Word2Vec | 90% accuracy · Low-resource NLP |
+| **Transformer: Pseudocode → C++** | PyTorch, Kaggle GPU | Seq2seq code generation |
+| **DeepSeek Math Fine-tuning** | PEFT, LoRA, HuggingFace | Math reasoning · Riddle solving |
+
+---
+
+## 🛠 Tech Stack
+
+**AI/ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**LLMs & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Edge AI**
+
+![Qualcomm](https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Backend & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **Cum Laude**
+- 📋 **Dean's List** — 8 Consecutive Academic Terms
+- 🏆 **ICPC Qualifier** — 2021 & 2025
+- 🎓 **Leading Edge Skills American Scholarship** — Data Analytics ($2,750)
+
+---
+
+## 📫 Let's Connect
+
+I am open to remote opportunities, research collaborations, and ambitious AI projects worldwide.
+
+<div align="center">
+
+*If you are building something hard and meaningful in AI — I would love to connect.*
+
+**im-haseeb@outlook.com**
+
+</div>
